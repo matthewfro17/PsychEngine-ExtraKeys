@@ -1,4 +1,4 @@
-package;
+package objects;
 
 import away3d.textures.ATFTexture;
 import away3d.animators.*;
