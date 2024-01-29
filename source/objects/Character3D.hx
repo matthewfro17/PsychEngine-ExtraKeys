@@ -1,4 +1,4 @@
-package;
+package objects;
 
 import flixel.FlxBasic;
 import flixel.util.FlxColor;
