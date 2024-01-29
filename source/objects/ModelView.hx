@@ -1,4 +1,4 @@
-package;
+package objects;
 
 import openfl.display3D.textures.Texture;
 import openfl.display3D.Context3D;
